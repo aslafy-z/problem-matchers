@@ -1,0 +1,19 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "tap",
+      "fileLocation": "relative",
+      "pattern": [
+        {
+          "regexp": "^#\\s+(Failed test '.*')",
+          "message": 1
+        },
+        {
+          "regexp": "^#\\s+at (.*) line (\\d+)",
+          "line": 2,
+          "file": 1
+        }
+      ]
+    }
+  ]
+}

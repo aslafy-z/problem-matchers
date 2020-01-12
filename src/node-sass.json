@@ -1,0 +1,38 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "node-sass",
+      "fileLocation": "absolute",
+      "pattern": [
+        {
+          "regexp": "^{$"
+        },
+        {
+          "regexp": "\\s*\"status\":\\s\\d+,"
+        },
+        {
+          "regexp": "\\s*\"file\":\\s\"(.*)\",",
+          "file": 1
+        },
+        {
+          "regexp": "\\s*\"line\":\\s(\\d+),",
+          "line": 1
+        },
+        {
+          "regexp": "\\s*\"column\":\\s(\\d+),",
+          "column": 1
+        },
+        {
+          "regexp": "\\s*\"message\":\\s\"(.*)\",",
+          "message": 1
+        },
+        {
+          "regexp": "\\s*\"formatted\":\\s(.*)"
+        },
+        {
+          "regexp": "^}$"
+        }
+      ]
+    }
+  ]
+}

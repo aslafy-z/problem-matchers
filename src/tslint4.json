@@ -1,0 +1,16 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "tslint4",
+      "pattern": [
+        {
+          "regexp": "^(\\(\\S*\\)\\s+)?(\\S.*)\\[(\\d+), (\\d+)\\]:\\s+(.*)$",
+          "file": 2,
+          "line": 3,
+          "column": 4,
+          "message": 5
+        }
+      ]
+    }
+  ]
+}

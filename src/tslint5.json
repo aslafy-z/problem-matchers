@@ -1,0 +1,17 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "tslint5",
+      "pattern": [
+        {
+          "regexp": "^(WARNING|ERROR):(\\s+\\(\\S*\\))?\\s+(\\S.*)\\[(\\d+), (\\d+)\\]:\\s+(.*)$",
+          "severity": 1,
+          "file": 3,
+          "line": 4,
+          "column": 5,
+          "message": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "problemMatchers": [
+    {
+      "owner": "lessc",
+      "fileLocation": "absolute",
+      "pattern": [
+        {
+          "regexp": "(.*)\\sin\\s(.*)\\son line\\s(\\d+),\\scolumn\\s(\\d+)",
+          "message": 1,
+          "file": 2,
+          "line": 3,
+          "column": 4
+        }
+      ]
+    }
+  ]
+}

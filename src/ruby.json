@@ -1,0 +1,47 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "ruby",
+      "fileLocation": "absolute",
+      "pattern": [
+        {
+          "regexp": "(\\w+\\s+)\\[(.*):(\\d+)\\]",
+          "file": 2,
+          "line": 3
+        },
+        {
+          "regexp": "(.+)"
+        },
+        {
+          "regexp": "(.*)(\\s*Actual\\:.+)",
+          "message": 2
+        }
+      ]
+    },
+    {
+      "owner": "ruby",
+      "fileLocation": "absolute",
+      "pattern": {
+        "regexp": "^(.*\\.rb):(\\d+)\\:in `<?.+>?':\\s*(.*)",
+        "file": 1,
+        "line": 2,
+        "message": 3
+      }
+    },
+    {
+      "owner": "ruby",
+      "fileLocation": "absolute",
+      "pattern": [
+        {
+          "regexp": "^(.+)$",
+          "message": 1
+        },
+        {
+          "regexp": "^(.+\\.rb):(\\d+):(in.+:)?(.+)$",
+          "file": 1,
+          "line": 2
+        }
+      ]
+    }
+  ]
+}
