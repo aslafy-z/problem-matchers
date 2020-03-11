@@ -18,6 +18,7 @@
 - [`haxe`](./src/haxe.json) ([source](https://github.com/deengames-prototypes/pattern-warrior/blob/f188558afb39db1f3e28969ff3023bbf26cb1cdf/code/.vscode/tasks.json))
 - [`htmllint`](./src/htmllint.json) ([source](https://github.com/Cherry/htmllint-problem-matcher/blob/a3b897dc1b9dea5439582fefdf4592d6dc3b587b/.github/problem-matcher.json))
 - [`lessc`](./src/lessc.json) ([source](https://github.com/microsoft/vscode/blob/7a5bca9fafbbb23de289179be95e9c4832540c02/extensions/less/package.json))
+- [`markdownlint`](./src/markdownlint.json) ([source](https://github.com/Cherry/htmllint-problem-matcher/blob/a3b897dc1b9dea5439582fefdf4592d6dc3b587b/.github/problem-matcher.json))
 - [`msvc`](./src/msvc.json) ([source](https://github.com/ammaraskar/msvc-problem-matcher/blob/99d263b599fcdb17e91b89a949cd01d6184e6b7c/msvc_matcher.json))
 - [`node-sass`](./src/node-sass.json) ([source](https://github.com/microsoft/vscode/blob/80ccf6fd9d317a5f812f1c98c6ddd2a853ac6b32/extensions/scss/package.json))
 - [`phplint`](./src/phplint.json) ([source](https://github.com/korelstar/phplint-problem-matcher/blob/65ba096f36d529ff7e26267074e4a814824c89ae/phplint-matcher.json))
