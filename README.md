@@ -21,6 +21,7 @@
 - [`python`](./src/python.json) ([source](https://github.com/actions/setup-python/blob/60f686a14891caf7b5c205c91e1413fdb0ff1684/.github/python.json))
 - [`rubocop`](./src/rubocop.json) ([source](https://github.com/rewindio/github-action-rubocop/blob/9e1f335c9527680799c2d4bc6ae144cdb745f729/rubocop-problem-matcher.json))
 - [`ruby`](./src/ruby.json) ([source](https://github.com/qanplazas/vscode-problemMatchers/blob/1b08a894eaeec5c1a872d16817ba8216d4851a27/src/ruby/tasks.json))
+- [`stylelint`](./src/stylelint.json) ([source](https://github.com/xt0rted/stylelint-problem-matcher/blob/5ee95e741fe69c1ec3b78052d2f4ce5b4c0a9f11/.github/problem-matcher.json))
 - [`tap`](./src/tap.json) ([source](https://gist.github.com/mrcaron/eeb03a7777b6352eac38335ecaf1d424))
 - [`tsc`](./src/tsc.json) ([source](https://github.com/actions/setup-node/blob/9bb7038a073441f1f0c3c33070fc1601a2638b1e/.github/tsc.json))
 - [`tslint4`](./src/tslint4.json) ([source](https://github.com/microsoft/vscode-tslint/blob/94595c1c0a80c3fe8fb4d20b2331040e45341cc5/tslint/package.json))
