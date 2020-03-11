@@ -16,6 +16,7 @@
 - [`gcc`](./src/gcc.json) ([source](https://github.com/microsoft/vscode-cpptools/blob/acdd5ca9d21cb1dda535594bee461beb9e8a5f06/Extension/package.json))
 - [`go`](./src/go.json) ([source](https://github.com/actions/setup-go/blob/5f2246e3c526fbf853adc839e6ab87cf3f5e0225/.github/go.json))
 - [`haxe`](./src/haxe.json) ([source](https://github.com/deengames-prototypes/pattern-warrior/blob/f188558afb39db1f3e28969ff3023bbf26cb1cdf/code/.vscode/tasks.json))
+- [`htmllint`](./src/htmllint.json) ([source](https://github.com/Cherry/htmllint-problem-matcher/blob/a3b897dc1b9dea5439582fefdf4592d6dc3b587b/.github/problem-matcher.json))
 - [`lessc`](./src/lessc.json) ([source](https://github.com/microsoft/vscode/blob/7a5bca9fafbbb23de289179be95e9c4832540c02/extensions/less/package.json))
 - [`node-sass`](./src/node-sass.json) ([source](https://github.com/microsoft/vscode/blob/80ccf6fd9d317a5f812f1c98c6ddd2a853ac6b32/extensions/scss/package.json))
 - [`python`](./src/python.json) ([source](https://github.com/actions/setup-python/blob/60f686a14891caf7b5c205c91e1413fdb0ff1684/.github/python.json))
