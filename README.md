@@ -17,6 +17,7 @@
 - [`go`](./src/go.json) ([source](https://github.com/actions/setup-go/blob/5f2246e3c526fbf853adc839e6ab87cf3f5e0225/.github/go.json))
 - [`haxe`](./src/haxe.json) ([source](https://github.com/deengames-prototypes/pattern-warrior/blob/f188558afb39db1f3e28969ff3023bbf26cb1cdf/code/.vscode/tasks.json))
 - [`lessc`](./src/lessc.json) ([source](https://github.com/microsoft/vscode/blob/7a5bca9fafbbb23de289179be95e9c4832540c02/extensions/less/package.json))
+- [`msvc`](./src/msvc.json) ([source](https://github.com/ammaraskar/msvc-problem-matcher/blob/99d263b599fcdb17e91b89a949cd01d6184e6b7c/msvc_matcher.json))
 - [`node-sass`](./src/node-sass.json) ([source](https://github.com/microsoft/vscode/blob/80ccf6fd9d317a5f812f1c98c6ddd2a853ac6b32/extensions/scss/package.json))
 - [`python`](./src/python.json) ([source](https://github.com/actions/setup-python/blob/60f686a14891caf7b5c205c91e1413fdb0ff1684/.github/python.json))
 - [`rubocop`](./src/rubocop.json) ([source](https://github.com/rewindio/github-action-rubocop/blob/9e1f335c9527680799c2d4bc6ae144cdb745f729/rubocop-problem-matcher.json))
