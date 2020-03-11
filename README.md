@@ -20,6 +20,7 @@
 - [`lessc`](./src/lessc.json) ([source](https://github.com/microsoft/vscode/blob/7a5bca9fafbbb23de289179be95e9c4832540c02/extensions/less/package.json))
 - [`msvc`](./src/msvc.json) ([source](https://github.com/ammaraskar/msvc-problem-matcher/blob/99d263b599fcdb17e91b89a949cd01d6184e6b7c/msvc_matcher.json))
 - [`node-sass`](./src/node-sass.json) ([source](https://github.com/microsoft/vscode/blob/80ccf6fd9d317a5f812f1c98c6ddd2a853ac6b32/extensions/scss/package.json))
+- [`phplint`](./src/phplint.json) ([source](https://github.com/korelstar/phplint-problem-matcher/blob/65ba096f36d529ff7e26267074e4a814824c89ae/phplint-matcher.json))
 - [`python`](./src/python.json) ([source](https://github.com/actions/setup-python/blob/60f686a14891caf7b5c205c91e1413fdb0ff1684/.github/python.json))
 - [`rubocop`](./src/rubocop.json) ([source](https://github.com/rewindio/github-action-rubocop/blob/9e1f335c9527680799c2d4bc6ae144cdb745f729/rubocop-problem-matcher.json))
 - [`ruby`](./src/ruby.json) ([source](https://github.com/qanplazas/vscode-problemMatchers/blob/1b08a894eaeec5c1a872d16817ba8216d4851a27/src/ruby/tasks.json))
