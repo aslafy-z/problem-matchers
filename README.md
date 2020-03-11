@@ -28,4 +28,4 @@
 - [`valac`](./src/valac.json) ([source](https://github.com/thiagoabreu/vala-code/blob/3b5c717ecdd0231cfa538aa8d0e44a9e6dd70e75/package.json))
 - [`xmllint`](./src/xmllint.json) ([source](https://github.com/korelstar/xmllint-problem-matcher/blob/059d630f7d16a7a38845c30e0227a875e39813db/xmllint-matcher.json))
 
-> Thanks to all upstream contributors.
+### Thanks to all upstream contributors!
