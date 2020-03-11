@@ -1,7 +1,7 @@
 {
 	"problemMatcher": [
 		{
-			"owner": "phplint-matcher",
+			"owner": "phplint",
 			"pattern": [
 				{
 					"regexp": "^(.+):\\s+\\s+(.+) in (.+) on line (\\d+)$",
