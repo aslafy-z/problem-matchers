@@ -1,7 +1,7 @@
 {
 	"problemMatcher": [
 		{
-			"owner": "xmllint-matcher",
+			"owner": "xmllint",
 			"pattern": [
 				{
 					"regexp": "^(.+):(\\d+):\\s+(.+)\\s+:\\s+(.+)$",
