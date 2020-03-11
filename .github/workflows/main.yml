@@ -1,0 +1,19 @@
+name: lint
+
+on:
+  push: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Register eclint problem matcher
+      run: echo "::add-matcher::src/eclint.json"
+
+    - name: Run eclint
+      uses: snow-actions/eclint@80331f9b8b8651102bd87c8d70f1ccc59d046c81
+      with:
+        args: check
