@@ -4,6 +4,7 @@
 
 - https://code.visualstudio.com/Docs/editor/tasks#_defining-a-problem-matcher
 - https://github.com/actions/toolkit/blob/master/docs/problem-matchers.md
+- https://github.com/mheap/problem-matcher-tester
 
 ## Sources
 
