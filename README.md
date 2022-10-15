@@ -6,6 +6,10 @@
 - https://github.com/actions/toolkit/blob/master/docs/problem-matchers.md
 - https://github.com/mheap/problem-matcher-tester
 
+## Issues
+
+- https://github.com/microsoft/vscode/issues/9635
+
 ## Sources
 
 - [`cfn-lint`](./src/cfn-lint.json) ([source](https://github.com/ScottBrenner/cfn-lint-action/blob/4e7c712c4d5e271500b8ad3d714bf09eef6e5a58/cfn-lint.json))
