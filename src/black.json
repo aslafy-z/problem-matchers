@@ -1,0 +1,18 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "black",
+      "fileLocation": [
+        "relative"
+      ],
+      "severity": "error",
+      "pattern": [
+        {
+          "regexp": "^(would reformat|reformatted) (.+)$",
+          "file": 2,
+          "message": 1
+        }
+      ]
+    }
+  ]
+}
