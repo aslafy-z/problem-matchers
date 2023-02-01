@@ -37,5 +37,6 @@
 - [`tslint5`](./src/tslint5.json) ([source](https://github.com/microsoft/vscode-tslint/blob/94595c1c0a80c3fe8fb4d20b2331040e45341cc5/tslint/package.json))
 - [`valac`](./src/valac.json) ([source](https://github.com/thiagoabreu/vala-code/blob/3b5c717ecdd0231cfa538aa8d0e44a9e6dd70e75/package.json))
 - [`xmllint`](./src/xmllint.json) ([source](https://github.com/korelstar/xmllint-problem-matcher/blob/059d630f7d16a7a38845c30e0227a875e39813db/xmllint-matcher.json))
+- [`tflint-compact`](./src/tflint-compact.json) ([source](https://github.com/terraform-linters/setup-tflint/blob/0ebbf28dae0734e50a0530570ddaf209fd00cd8e/.github/matchers.json))
 
 ### Thanks to all upstream contributors!
