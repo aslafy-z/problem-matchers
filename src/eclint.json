@@ -1,0 +1,20 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "eclint",
+      "pattern": [
+        {
+          "regexp": "^([^\\s:]+):$",
+          "file": 1
+        },
+        {
+          "regexp": "^(\\d+):(\\d+): (.+)$",
+          "line": 1,
+          "column": 2,
+          "message": 3,
+          "loop": true
+        }
+      ]
+    }
+  ]
+}
